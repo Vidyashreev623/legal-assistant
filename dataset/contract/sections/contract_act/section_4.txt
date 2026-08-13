@@ -1,0 +1,53 @@
+Act: contract act
+Section: 4
+======================================================================
+
+4. The words “The enactments mentioned in the Schedule hereto are repealed to the extent specified in the third column thereof , 
+but” rep. by Act 10 of 1914, s. 3 and the Second Schedule. 
+11 
+ 
+(b) When the person to whom the proposal is made signifies his assent thereto, the proposal is 
+said to be accepted. A proposal, when accepted, becomes a promise; 
+(c) The person maki ng the proposal is called the “promisor”, and the person accepting the 
+proposal is called the “promisee”; 
+(d) When, at the desire of the promisor, the promisee or any other person has done or abstained 
+from doing, or does or abstains from doing, or promises to do or to absta in from doing, something, 
+such act or abstinence or promise is called a consideration for the promise; 
+(e) Every promise and every set of promises, forming the consideration f or each other, is an 
+agreement; 
+(f) Promises which form the  consideration or part of the consideration for each other are called 
+reciprocal promises; 
+(g) An agreement not enforceable by law is said to be void; 
+(h) An agreement enforceable by law is a contract; 
+(i) An agreement which is enforceable by law at the option  of one or more of the parties thereto, 
+but not at the option of the other or others, is a voidable contract; 
+(j) A contract which ceases to be enforceable by law becomes void wh en it ceases to be 
+enforceable. 
+CHAPTER I 
+OF THE COMMUNICATION, ACCEPTANCE AND REVOCATION OF PROPOSALS 
+3.Communication, acceptance and revocation of proposals. —The communication of proposals , 
+the acceptance of proposals, and the revocation of proposals and acceptances, respectively, are deemed to 
+be made by any act or omission of the party proposing, accepting or revoking by which he i ntends to 
+communicate such proposal, acceptance or revocation, or which has the effect of communicating it. 
+4. Communication when complete .—The communication of a proposal is complete when it comes 
+to the knowledge of the person to whom it is made. 
+The communication of an acceptance is complete,— 
+as against the proposer, when it is put in a course of transmission to him, so as to be out of the 
+power of the acceptor; 
+as against the acceptor, when it comes to the knowledge of the proposer.  
+The communication of a revocation is complete,— 
+as against the person who m akes it, when it is put into a course of transmission to the p erson to 
+whom it is made, so as to be out of the power of the person who makes it; 
+as against the person to whom it is made, when it comes to his knowledge. 
+Illustrations 
+(a) A proposes, by letter, to sell a house to B at a certain price. 
+The communication of the proposal is complete when B receives the letter. 
+(b) B accepts A’s proposal by a letter sent by post. 
+The communication of the acceptance is complete, 
+as against A when the letter is posted; 
+as against B, when the letter is received by A. 
+(c) A revokes his proposal by telegram. 
+The revocation is complete as against A when the telegram is despatched. It is complete as against B when B receives it. 
+B revokes his acceptance by telegram. B’s revocation is complete as against B when the telegram is despatched, and as  
+against A when it reaches him. 
+12

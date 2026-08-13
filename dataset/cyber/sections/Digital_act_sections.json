@@ -1,0 +1,106 @@
+[
+  {
+    "act": "Digital act",
+    "section": "2",
+    "title": "In this Act, unless the context otherwise requires,—",
+    "text": "2. In this Act, unless the context otherwise requires,—\n(a) “Appellate Tribunal” means the Telecom Disputes Settlement and Appellate\nTribunal established under section 14 of the Telecom Regulatory Authority of India\nAct, 1997;\n(b) “automated” means any digital process capable of operating automatically\nin response to instructions given or otherwise for the purpose of processing data;\n(c) “Board” means the Data Protection Board of India established by the Central\nGovernment under section 18;\n(d) “certain legitimate uses” means the uses referred to in section 7;\n(e) “Chairperson” means the Chairperson of the Board;\n(f) “child” means an individual who has not completed the age of eighteen\nyears;\n(g) “Consent Manager” means a person registered with the Board, who acts as\na single point of contact to enable a Data Principal to give, manage, review and\nwithdraw her consent through an accessible, transparent and interoperable platform;\n(h) “data” means a representation of information, facts, concepts, opinions or\ninstructions in a manner suitable for communication, interpretation or processing by\nhuman beings or by automated means;\n(i) “Data Fiduciary” means any person who alone or in conjunction with other\npersons determines the purpose and means of processing of personal data;\n(j) “Data Principal” means the individual to whom the personal data relates and\nwhere such individual is—\n(i) a child, includes the parents or lawful guardian of such a child;\n(ii) a person with disability, includes her lawful guardian, acting on her\nbehalf;\n(k) “Data Processor” means any person who processes personal data on behalf\nof a Data Fiduciary;\n(l) “Data Protection Officer” means an individual appointed by the Significant\nData Fiduciary under clause (a) of sub-section (2) of section 10;\n(m) “digital office” means an office that adopts an online mechanism wherein\nthe proceedings, from receipt of intimation or complaint or reference or directions or\nappeal, as the case may be, to the disposal thereof, are conducted in online or digital\nmode;\n(n) “digital personal data” means personal data in digital form;\n(o) “gain” means—\n(i) a gain in property or supply of services, whether temporary or\npermanent; or\n(ii) an opportunity to earn remuneration or greater remuneration or to\ngain a financial advantage otherwise than by way of legitimate remuneration;\n(p) “loss” means—\n(i) a loss in property or interruption in supply of services, whether\ntemporary or permanent; or\n(ii) a loss of opportunity to earn remuneration or greater remuneration or\nto gain a financial advantage otherwise than by way of legitimate remuneration;\nDefinitions.\n24 of 1997.\nSEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3\n(q) “Member” means a Member of the Board and includes the Chairperson;\n(r) “notification” means a notification published in the Official Gazette and the\nexpressions “notify” and “notified” shall be construed accordingly;\n(s) “person” includes—\n(i) an individual;\n(ii) a Hindu undivided family;\n(iii) a company;\n(iv) a firm;\n(v) an association of persons or a body of individuals, whether\nincorporated or not;\n(vi) the State; and\n(vii) every artificial juristic person, not falling within any of the preceding\nsub-clauses;\n(t) “personal data” means any data about an individual who is identifiable by or\nin relation to such data;\n(u) “personal data breach” means any unauthorised processing of personal\ndata or accidental disclosure, acquisition, sharing, use, alteration, destruction or loss\nof access to personal data, that compromises the confidentiality, integrity or availability\nof personal data;\n(v) “prescribed” means prescribed by rules made under this Act;\n(w) “proceeding” means any action taken by the Board under the provisions of\nthis Act;\n(x) “processing” in relation to personal data, means a wholly or partly automated\noperation or set of operations performed on digital personal data, and includes\noperations such as collection, recording, organisation, structuring, storage, adaptation,\nretrieval, use, alignment or combination, indexing, sharing, disclosure by transmission,\ndissemination or otherwise making available, restriction, erasure or destruction;\n(y) “she” in relation to an individual includes the reference to such individual\nirrespective of gender;\n(z) “Significant Data Fiduciary” means any Data Fiduciary or class of Data\nFiduciaries as may be notified by the Central Government under section 10;\n(za) “specified purpose” means the purpose mentioned in the notice given by\nthe Data Fiduciary to the Data Principal in accordance with the provisions of this Act\nand the rules made thereunder; and\n(zb) “State” means the State as defined under article 12 of the Constitution.",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  },
+  {
+    "act": "Digital act",
+    "section": "3",
+    "title": "Subject to the provisions of this Act, it shall—",
+    "text": "3. Subject to the provisions of this Act, it shall—\n(a) apply to the processing of digital personal data within the territory of India\nwhere the personal data is collected––\n(i) in digital form; or\n(ii) in non-digital form and digitised subsequently;\n(b) also apply to processing of digital personal data outside the territory of\nIndia, if such processing is in connection with any activity related to offering of\ngoods or services to Data Principals within the territory of India;\nApplication\nof Act.\n4 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n(c) not apply to—\n(i) personal data processed by an individual for any personal or domestic\npurpose; and\n(ii) personal data that is made or caused to be made publicly available\nby—\n(A) the Data Principal to whom such personal data relates; or\n(B) any other person who is under an obligation under any law for\nthe time being in force in India to make such personal data publicly\navailable.\nIllustration.\nX, an individual, while blogging her views, has publicly made available her personal\ndata on social media. In such case, the provisions of this Act shall not apply.\nCHAPTER II\nOBLIGATIONS OF DATA FIDUCIARY",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  },
+  {
+    "act": "Digital act",
+    "section": "7",
+    "title": "A Data Fiduciary may process personal data of a Data Principal for any of following",
+    "text": "7. A Data Fiduciary may process personal data of a Data Principal for any of following\nuses, namely:—\n(a) for the specified purpose for which the Data Principal has voluntarily\nprovided her personal data to the Data Fiduciary, and in respect of which she has not\nindicated to the Data Fiduciary that she does not consent to the use of her personal\ndata.\nIllustrations.\n(I) X, an individual, makes a purchase at Y, a pharmacy. She voluntarily provides Y her\npersonal data and requests Y to acknowledge receipt of the payment made for the purchase\nby sending a message to her mobile phone. Y may process the personal data of X for the\npurpose of sending the receipt.\n(II) X, an individual, electronically messages Y , a real estate broker, requesting Y to\nhelp identify a suitable rented accommodation for her and shares her personal data for this\npurpose. Y may process her personal data to identify and intimate to her the details of\naccommodation available on rent. Subsequently, X informs Y that X no longer needs help\nfrom Y . Y shall cease to process the personal data of X;\n (b) for the State and any of its instrumentalities to provide or issue to the Data\nPrincipal such subsidy, benefit, service, certificate, licence or permit as may be\nprescribed, where––\n(i) she has previously consented to the processing of her personal data\nby the State or any of its instrumentalities for any subsidy, benefit, service,\ncertificate, licence or permit; or\n(ii) such personal data is available in digital form in, or in non-digital form\nand digitised subsequently from, any database, register, book or other document\nwhich is maintained by the State or any of its instrumentalities and is notified\nby the Central Government,\nsubject to standards followed for processing being in accordance with the policy\nissued by the Central Government or any law for the time being in force for governance\nof personal data.\nIllustration.\nX. a pregnant woman, enrols herself on an app or website to avail of government’s\nmaternity benefits programme, while consenting to provide her personal data for the purpose\nof availing of such benefits. Government may process the personal data of X processing to\ndetermine her eligibility to receive any other prescribed benefit from the government;\nCertain\nlegitimate uses.\nSEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 7\n(c) for the performance by the State or any of its instrumentalities of any function\nunder any law for the time being in force in India or in the interest of sovereignty and\nintegrity of India or security of the State;\n(d) for fulfilling any obligation under any law for the time being in force in India\non any person to disclose any information to the State or any of its instrumentalities,\nsubject to such processing being in accordance with the provisions regarding\ndisclosure of such information in any other law for the time being in force;\n(e) for compliance with any judgment or decree or order issued under any law\nfor the time being in force in India, or any judgment or order relating to claims of a\ncontractual or civil nature under any law for the time being in force outside India;\n(f) for responding to a medical emergency involving a threat to the life or\nimmediate threat to the health of the Data Principal or any other individual;\n (g) for taking measures to provide medical treatment or health services to any\nindividual during an epidemic, outbreak of disease, or any other threat to public\nhealth;\n(h) for taking measures to ensure safety of, or provide assistance or services to,\nany individual during any disaster, or any breakdown of public order.\nExplanation.— For the purposes of this clause, the expression “disaster” shall\nhave the same meaning as assigned to it in clause ( d) of section 2 of the Disaster\nManagement Act, 2005; or\n(i) for the purposes of employment or those related to safeguarding the employer\nfrom loss or liability, such as prevention of corporate espionage, maintenance of\nconfidentiality of trade secrets, intellectual property, classified information or provision\nof any service or benefit sought by a Data Principal who is an employee.",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  },
+  {
+    "act": "Digital act",
+    "section": "15",
+    "title": "A Data Principal shall perform the following duties, namely:—",
+    "text": "15. A Data Principal shall perform the following duties, namely:—\n(a) comply with the provisions of all applicable laws for the time being in force\nwhile exercising rights under the provisions of this Act;\n(b) to ensure not to impersonate another person while providing her personal\ndata for a specified purpose;\n(c) to ensure not to suppress any material information while providing her\npersonal data for any document, unique identifier, proof of identity or proof of address\nissued by the State or any of its instrumentalities;\n(d) to ensure not to register a false or frivolous grievance or complaint with a\nData Fiduciary or the Board; and\n(e) to furnish only such information as is verifiably authentic, while exercising\nthe right to correction or erasure under the provisions of this Act or the rules made\nthereunder.\nRight to\ncorrection and\nerasure of\npersonal data.\nRight of\ngrievance\nredressal.\nRight to\nnominate.\nDuties of Data\nPrincipal.\nSEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 11\nCHAPTER IV\nSPECIAL PROVISIONS",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  },
+  {
+    "act": "Digital act",
+    "section": "24",
+    "title": "The Board may, with previous approval of the Central Government, appoint such",
+    "text": "24. The Board may, with previous approval of the Central Government, appoint such\nofficers and employees as it may deem necessary for the efficient discharge of its functions\nunder the provisions of this Act, on such terms and conditions of appointment and service\nas may be prescribed.",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  },
+  {
+    "act": "Digital act",
+    "section": "25",
+    "title": "The Chairperson, Members, officers and employees of the Board shall be deemed,",
+    "text": "25. The Chairperson, Members, officers and employees of the Board shall be deemed,\nwhen acting or purporting to act in pursuance of provisions of this Act, to be public\nservants within the meaning of section 21 of the Indian Penal Code.\nDisqualifications\nfor\nappointment\nand\ncontinuation\nas\nChairperson\nand Members\nof Board.\nResignation\nby Members\nand filling of\nvacancy.\nProceedings\nof Board.\nOfficers and\nemployees of\nBoard.\nMembers and\nofficers to be\npublic\nservants.45 of 1860.\n14 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  },
+  {
+    "act": "Digital act",
+    "section": "26",
+    "title": "The Chairperson shall exercise the following powers, namely:—",
+    "text": "26. The Chairperson shall exercise the following powers, namely:—\n(a) general superintendence and giving direction in respect of all administrative\nmatters of the Board;\n(b) authorise any officer of the Board to scrutinise any intimation, complaint,\nreference or correspondence addressed to the Board; and\n(c) authorise performance of any of the functions of the Board and conduct any\nof its proceedings, by an individual Member or groups of Members and to allocate\nproceedings among them.\nCHAPTER VI\nP\nOWERS, FUNCTIONS AND PROCEDURE TO BE FOLLOWED BY BOARD",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  },
+  {
+    "act": "Digital act",
+    "section": "31",
+    "title": "If the Board is of the opinion that any complaint may be resolved by mediation, it",
+    "text": "31. If the Board is of the opinion that any complaint may be resolved by mediation, it\nmay direct the parties concerned to attempt resolution of the dispute through such mediation\nby such mediator as the parties may mutually agree upon, or as provided for under any law\nfor the time being in force in India.",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  },
+  {
+    "act": "Digital act",
+    "section": "34",
+    "title": "All sums realised by way of penalties imposed by the Board under this Act, shall",
+    "text": "34. All sums realised by way of penalties imposed by the Board under this Act, shall\nbe credited to the Consolidated Fund of India.\nCHAPTER IX\nM\nISCELLANEOUS",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  },
+  {
+    "act": "Digital act",
+    "section": "35",
+    "title": "No suit, prosecution or other legal proceedings shall lie against the Central",
+    "text": "35. No suit, prosecution or other legal proceedings shall lie against the Central\nGovernment, the Board, its Chairperson and any Member, officer or employee thereof for\nanything which is done or intended to be done in good faith under the provisions of this\nAct or the rules made thereunder.",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  },
+  {
+    "act": "Digital act",
+    "section": "36",
+    "title": "The Central Government may, for the purposes of this Act, require the Board and",
+    "text": "36. The Central Government may, for the purposes of this Act, require the Board and\nany Data Fiduciary or intermediary to furnish such information as it may call for.",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  },
+  {
+    "act": "Digital act",
+    "section": "39",
+    "title": "No civil court shall have the jurisdiction to entertain any suit or proceeding in",
+    "text": "39. No civil court shall have the jurisdiction to entertain any suit or proceeding in\nrespect of any matter for which the Board is empowered under the provisions of this Act\nand no injunction shall be granted by any court or other authority in respect of any action\ntaken or to be taken in pursuance of any power under the provisions of this Act.",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  },
+  {
+    "act": "Digital act",
+    "section": "41",
+    "title": "Every rule made and every notification issued under section 16 and section 42 of",
+    "text": "41. Every rule made and every notification issued under section 16 and section 42 of\nthis Act shall be laid, as soon as may be after it is made, before each House of Parliament,\nwhile it is in session, for a total period of thirty days which may be comprised in one session\nor in two or more successive sessions, and if before the expiry of the session immediately\nfollowing the session or the successive sessions aforesaid, both Houses agree in making\nany modification in the rule or notification or both Houses agree that the rule or notification\nshould not be made or issued, the rule or notification shall thereafter have effect only in\nsuch modified form or be of no effect, as the case may be; so, however, that any such\nmodification or annulment shall be without prejudice to the validity of anything previously\ndone under that rule or notification.",
+    "domain": "cyber",
+    "source": "Digital act.pdf"
+  }
+]

@@ -1,0 +1,9 @@
+Act: contract act
+Section: 46
+======================================================================
+
+46. Time for performance of promise, when no application is to be made and no time is 
+specified.—Where, by the contract, a promisor is to perform his promise without application by the 
+promisee, and no time for performance is specified, the engagement must be perf ormed within a 
+reasonable time. 
+Explanation.—The question “what is a reasonable time” is, in each particular case, a question of fact.

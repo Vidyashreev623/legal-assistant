@@ -1,0 +1,7 @@
+Act: Specific relief act
+Section: 39
+======================================================================
+
+39. Mandatory injunctions.—When, to prevent the breach of an obligation, it is necessary to compel 
+the performance of certain acts which the court is capable of enforcing, the court may in its discretion grant 
+an injunction to prevent the breach complained of, and also to compel performance of the requisite acts.

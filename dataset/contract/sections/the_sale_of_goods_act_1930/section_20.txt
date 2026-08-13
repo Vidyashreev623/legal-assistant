@@ -1,0 +1,8 @@
+Act: the sale of goods act,1930
+Section: 20
+======================================================================
+
+20. Specific goods in a deliverable state. — Where there is an unconditional contract for the sale of 
+specific goods in a deliverable state, the property in the goods passes to the buyer when the contract is 
+made, and it is immater ial whether the time of payment of the price or the time of delivery of the goods, 
+or both, is postponed.

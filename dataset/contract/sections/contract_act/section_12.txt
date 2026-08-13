@@ -1,0 +1,15 @@
+Act: contract act
+Section: 12
+======================================================================
+
+12. What is a sound mind f or the purposes of contracting.—A person is said to be of sound mind 
+for the purpose of making a contract , if, at the time when he makes it, he is capable of understanding it 
+and of forming a rational judgment as to its effect upon his interests. 
+A person who is usually of unsound mind, but occasionally of sound mind, may make a con tract 
+when he is of sound mind. 
+A person who is usually of soun d mind, but occasionally of un sound mind, may not make a contr act 
+when he is of unsound mind. 
+Illustrations 
+(a) A patient in a lunatic asylum, who is at intervals of sound mind, may contract during those intervals. 
+(b) A sane man, who is delirious from fever or who is so drunk that he cannot understand the terms of a contract , or form a 
+rational judgment as to its effect on his interests, cannot contract whilst such delirium or drunkenness lasts.

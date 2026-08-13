@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-13T18:33:53.825538",
+  "total_records": 3913,
+  "records_by_type": {
+    "acts": 42,
+    "cases": 253,
+    "rules": 45,
+    "sections": 3573
+  },
+  "records_by_domain": {
+    "consumer": 273,
+    "contract": 521,
+    "cyber": 948,
+    "employment": 1089,
+    "family": 324,
+    "property": 758
+  },
+  "validation_errors": 0
+}

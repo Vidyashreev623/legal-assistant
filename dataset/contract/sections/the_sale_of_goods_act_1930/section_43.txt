@@ -1,0 +1,7 @@
+Act: the sale of goods act,1930
+Section: 43
+======================================================================
+
+43. Buyer not bound to return rejected goods. —Unless otherwise agreed, where goods are 
+delivered to the buyer and he refuses to accept them, having the right so to do, he is not bound to return 
+them to the seller, but it is sufficient if he intimates to the seller that he refuses to accept them.
